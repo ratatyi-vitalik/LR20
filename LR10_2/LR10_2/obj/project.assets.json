@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\LR10_2\\LR10_2\\LR10_2.csproj",
+      "projectUniqueName": "D:\\LR20\\LR10_2\\LR10_2\\LR10_2.csproj",
       "projectName": "LR10_2",
-      "projectPath": "D:\\C#\\LR10_2\\LR10_2\\LR10_2.csproj",
+      "projectPath": "D:\\LR20\\LR10_2\\LR10_2\\LR10_2.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\LR10_2\\LR10_2\\obj\\",
+      "outputPath": "D:\\LR20\\LR10_2\\LR10_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -35,3 +35,5 @@ finally
         Console.WriteLine("Результат работы блока finaly: " + fin);
     }
 }
+
+//поменял
